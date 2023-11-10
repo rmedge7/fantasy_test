@@ -1,4 +1,4 @@
-const teams = data;
+import teams from 'teams.js';
 
 function createStandingsTable(teams) {
     // Sort the teams based on wins and then losses
