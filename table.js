@@ -1,6 +1,4 @@
-const teams = [
-    // Your team data here...
-];
+const teams = data;
 
 function createStandingsTable(teams) {
     // Sort the teams based on wins and then losses
